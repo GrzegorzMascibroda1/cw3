@@ -1,4 +1,4 @@
-public class Zamowienie {
+public class Zamowienia {
     private int id;
     private Klient klient;
     private Produkt[] produkty;
